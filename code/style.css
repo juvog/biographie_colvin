@@ -1,0 +1,52 @@
+section
+{
+    display :flex;
+
+}
+
+textarea {
+    width : 95%;
+    height : 100px;
+
+}
+
+form{
+    width : 100%;
+}
+
+.affichage
+{
+   background-color: aquamarine;
+    margin : 2px;
+    padding : 2px;
+    width : 80%;
+}
+
+
+.connexion
+{
+    font-size: 1.5em;
+    margin : 2px;
+    padding : 2px;
+    border : 2px solid black;
+    width : 20%;
+}
+
+#entete
+{
+    font-size: 2em;
+    font-weight: bold;
+}
+
+#contenu
+{
+    font-size: 1.5em;
+
+}
+
+#pied
+{
+    font-size: 1em;
+    color : grey;
+
+}
